@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+.mb-3{
+    padding: 10px;
+}
+
+.btn{
+    color: rgb(255, 255, 255);
+    background-color: green;
+}
